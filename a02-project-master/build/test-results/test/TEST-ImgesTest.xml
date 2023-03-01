@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ImgesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-01T19:48:22" hostname="KEMO" time="0.196">
+  <properties/>
+  <testcase name="getTexur()" classname="ImgesTest" time="0.196"/>
+  <system-out><![CDATA[bone.png
+chips.png
+chocolate.png
+door.png
+drawer.png
+eevee.png
+eeveeDOWN.png
+eeveeLeft.png
+eeveeUP.png
+floor.png
+health.png
+key.png
+stairs.png
+table.png
+wall.png
+water.png
+done storing the texurs
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EeveeTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-03-01T19:48:21" hostname="KEMO" time="0.098">
+  <properties/>
+  <testcase name="setPostion()" classname="EeveeTest" time="0.066"/>
+  <testcase name="damage()" classname="EeveeTest" time="0.001"/>
+  <testcase name="getkey()" classname="EeveeTest" time="0.002"/>
+  <testcase name="getDirection()" classname="EeveeTest" time="0.006"/>
+  <testcase name="useKey()" classname="EeveeTest" time="0.002"/>
+  <testcase name="usePotion()" classname="EeveeTest" time="0.001"/>
+  <testcase name="heal()" classname="EeveeTest" time="0.002"/>
+  <testcase name="getHealth()" classname="EeveeTest" time="0.001"/>
+  <testcase name="getpotion()" classname="EeveeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

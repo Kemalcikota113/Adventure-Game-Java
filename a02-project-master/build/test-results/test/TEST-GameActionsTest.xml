@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameActionsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-01T19:48:21" hostname="KEMO" time="0.018">
+  <properties/>
+  <testcase name="getEevee()" classname="GameActionsTest" time="0.015"/>
+  <testcase name="isStory()" classname="GameActionsTest" time="0.002"/>
+  <system-out><![CDATA[this is a test
+this is a test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
